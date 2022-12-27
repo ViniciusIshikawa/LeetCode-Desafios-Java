@@ -1,0 +1,1 @@
+Este repositório tem o intuito de armazenar todos os exercícios realizados na plataforma LeetCode na linguagem de programação Java. 
